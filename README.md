@@ -3,7 +3,7 @@ This contains the all code to my Master's Thesis.
 ## Changelog
 * 2019.09.29
 
-  **Analyzer.ipynb**
+  **Analyser.ipynb**
     * Processed recent data
 * 2019.09.28
   
