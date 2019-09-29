@@ -1,6 +1,10 @@
 # Boundary-behavior-in-stochastic-differential-equations-used-in-Finance
 This contains the all code to my Master's Thesis.
 ## Changelog
+* 2019.09.29
+
+  **Analyzer.ipynb**
+    * Processed recent data
 * 2019.09.28
   
   **Models.ipynb**
